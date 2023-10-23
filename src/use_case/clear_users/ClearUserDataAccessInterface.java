@@ -1,6 +1,9 @@
-package use_case.clear_users;
+package CACoding.src.use_case.clear_users;
 
-// TODO Complete me
+import CACoding.src.entity.User;
 
 public interface ClearUserDataAccessInterface {
+
+    boolean existsByName(String Identifier);
+
 }

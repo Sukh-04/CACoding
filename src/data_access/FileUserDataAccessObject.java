@@ -1,7 +1,7 @@
-package data_access;
+package CACoding.src.data_access;
 
-import entity.User;
-import entity.UserFactory;
+import CACoding.src.entity.User;
+import CACoding.src.entity.UserFactory;
 import use_case.login.LoginUserDataAccessInterface;
 import use_case.signup.SignupUserDataAccessInterface;
 

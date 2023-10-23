@@ -1,6 +1,6 @@
-package view;
+package CACoding.src.view;
 
-import interface_adapter.ViewManagerModel;
+import CACoding.src.interface_adapter.ViewManagerModel;
 
 import javax.swing.*;
 import java.awt.*;

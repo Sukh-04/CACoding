@@ -1,4 +1,4 @@
-package use_case.clear_users;
+package CACoding.src.use_case.clear_users;
 
 // TODO Complete me
 

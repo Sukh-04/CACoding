@@ -1,4 +1,4 @@
-package interface_adapter.logged_in;
+package CACoding.src.interface_adapter.logged_in;
 
 public class LoggedInState {
     private String username = "";

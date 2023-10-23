@@ -1,4 +1,4 @@
-package entity;
+package CACoding.src.entity;
 
 public class PasswordValidatorService implements PasswordValidator {
     public boolean passwordIsValid(String password) {

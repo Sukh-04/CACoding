@@ -1,17 +1,17 @@
-package app;
+package CACoding.src.app;
 
-import interface_adapter.login.LoginViewModel;
-import interface_adapter.signup.SignupController;
-import interface_adapter.signup.SignupPresenter;
-import interface_adapter.signup.SignupViewModel;
+import CACoding.src.interface_adapter.login.LoginViewModel;
+import CACoding.src.interface_adapter.signup.SignupController;
+import CACoding.src.interface_adapter.signup.SignupPresenter;
+import CACoding.src.interface_adapter.signup.SignupViewModel;
 import use_case.signup.SignupUserDataAccessInterface;
-import entity.CommonUserFactory;
-import entity.UserFactory;
-import interface_adapter.*;
+import CACoding.src.entity.CommonUserFactory;
+import CACoding.src.entity.UserFactory;
+import CACoding.src.interface_adapter.*;
 import use_case.signup.SignupInputBoundary;
 import use_case.signup.SignupInteractor;
 import use_case.signup.SignupOutputBoundary;
-import view.SignupView;
+import CACoding.src.view.SignupView;
 
 import javax.swing.*;
 import java.io.IOException;

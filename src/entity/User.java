@@ -1,4 +1,4 @@
-package entity;
+package CACoding.src.entity;
 
 import java.time.LocalDateTime;
 

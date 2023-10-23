@@ -1,9 +1,9 @@
-package interface_adapter.login;
+package CACoding.src.interface_adapter.login;
 
-import interface_adapter.logged_in.LoggedInState;
-import interface_adapter.logged_in.LoggedInViewModel;
-import interface_adapter.ViewManagerModel;
-import interface_adapter.signup.SignupState;
+import CACoding.src.interface_adapter.logged_in.LoggedInState;
+import CACoding.src.interface_adapter.logged_in.LoggedInViewModel;
+import CACoding.src.interface_adapter.ViewManagerModel;
+import CACoding.src.interface_adapter.signup.SignupState;
 import use_case.login.LoginOutputBoundary;
 import use_case.login.LoginOutputData;
 import use_case.signup.SignupOutputBoundary;

@@ -1,16 +1,16 @@
-package app;
+package CACoding.src.app;
 
-import data_access.FileUserDataAccessObject;
-import entity.CommonUserFactory;
-import interface_adapter.login.LoginViewModel;
-import interface_adapter.logged_in.LoggedInViewModel;
-import interface_adapter.signup.SignupViewModel;
-import interface_adapter.ViewManagerModel;
+import CACoding.src.data_access.FileUserDataAccessObject;
+import CACoding.src.entity.CommonUserFactory;
+import CACoding.src.interface_adapter.login.LoginViewModel;
+import CACoding.src.interface_adapter.logged_in.LoggedInViewModel;
+import CACoding.src.interface_adapter.signup.SignupViewModel;
+import CACoding.src.interface_adapter.ViewManagerModel;
 import use_case.login.LoginUserDataAccessInterface;
-import view.LoggedInView;
-import view.LoginView;
-import view.SignupView;
-import view.ViewManager;
+import CACoding.src.view.LoggedInView;
+import CACoding.src.view.LoginView;
+import CACoding.src.view.SignupView;
+import CACoding.src.view.ViewManager;
 
 import javax.swing.*;
 import java.awt.*;

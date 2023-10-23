@@ -1,4 +1,4 @@
-package view;
+package CACoding.src.view;
 
 import javax.swing.*;
 
